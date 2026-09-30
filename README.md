@@ -40,5 +40,3 @@ For the dashboard open `powerbi/Bank_Churn_Dashboard.pbix` in Power BI Desktop (
 ## Skills demonstrated
 Power BI, DAX, Power Query, data cleaning, KPI design, storytelling with data, Python (pandas, matplotlib).
 
-## Author
-Supriya Katkar - [LinkedIn](https://linkedin.com/in/your-profile)
